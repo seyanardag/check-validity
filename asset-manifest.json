@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/check-validity/static/css/main.24f3dee0.css",
+    "main.js": "/check-validity/static/js/main.69953d43.js",
+    "index.html": "/check-validity/index.html",
+    "main.24f3dee0.css.map": "/check-validity/static/css/main.24f3dee0.css.map",
+    "main.69953d43.js.map": "/check-validity/static/js/main.69953d43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24f3dee0.css",
+    "static/js/main.69953d43.js"
+  ]
+}
